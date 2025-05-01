@@ -6,7 +6,7 @@ Este é um projeto de um quadro de tarefas **Kanban** desenvolvido com **HTML**,
 
 Você pode acessar e visualizar o quadro Kanban através do link abaixo:
 
-[**Ver Projeto - Quadro de Tarefas Kanban**](https://gbrlborba.github.io/Kanban/))
+[**Ver Projeto - Quadro de Tarefas Kanban**][(https://gbrlborba.github.io/Kanban/)]
 
 ## 🚀 Tecnologias Utilizadas
 

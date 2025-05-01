@@ -2,12 +2,6 @@
 
 Este é um projeto de um quadro de tarefas **Kanban** desenvolvido com **HTML**, **CSS** e **JavaScript**. O sistema permite a organização visual de tarefas através de colunas com a funcionalidade de **arrastar e soltar** (drag and drop), facilitando o gerenciamento de atividades.
 
-## 🖥️ Visualize o Projeto
-
-Você pode acessar e visualizar o quadro Kanban através do link abaixo:
-
-[**Ver Projeto - Quadro de Tarefas Kanban**][(https://gbrlborba.github.io/Kanban/)]
-
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML** para a estruturação do conteúdo.
